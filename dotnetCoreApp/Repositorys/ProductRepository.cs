@@ -88,6 +88,11 @@ namespace dotnetCoreApp.Repositorys
 			}
 			return uniqueFileName;
 		}
+
+		public Products SearchProducts(DateTime Date)
+		{
+			throw new NotImplementedException();
+		}
 		/*************************************/
 		////End Previous Interface Implementation
 

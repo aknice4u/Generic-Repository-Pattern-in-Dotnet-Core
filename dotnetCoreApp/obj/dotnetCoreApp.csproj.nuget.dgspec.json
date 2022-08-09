@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\Visual Studio 2019\\dotnetCoreApp\\dotnetCoreApp\\dotnetCoreApp.csproj": {}
+    "C:\\dotneGitClone\\Generic-Repository-Pattern-in-Dotnet-Core\\dotnetCoreApp\\dotnetCoreApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\Visual Studio 2019\\dotnetCoreApp\\dotnetCoreApp\\dotnetCoreApp.csproj": {
+    "C:\\dotneGitClone\\Generic-Repository-Pattern-in-Dotnet-Core\\dotnetCoreApp\\dotnetCoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\Visual Studio 2019\\dotnetCoreApp\\dotnetCoreApp\\dotnetCoreApp.csproj",
+        "projectUniqueName": "C:\\dotneGitClone\\Generic-Repository-Pattern-in-Dotnet-Core\\dotnetCoreApp\\dotnetCoreApp.csproj",
         "projectName": "dotnetCoreApp",
-        "projectPath": "C:\\Users\\user\\Documents\\Visual Studio 2019\\dotnetCoreApp\\dotnetCoreApp\\dotnetCoreApp.csproj",
+        "projectPath": "C:\\dotneGitClone\\Generic-Repository-Pattern-in-Dotnet-Core\\dotnetCoreApp\\dotnetCoreApp.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\Visual Studio 2019\\dotnetCoreApp\\dotnetCoreApp\\obj\\",
+        "outputPath": "C:\\dotneGitClone\\Generic-Repository-Pattern-in-Dotnet-Core\\dotnetCoreApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -81,6 +81,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.25, 3.1.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -89,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

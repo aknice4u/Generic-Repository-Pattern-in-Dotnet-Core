@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xfc4Bfeh/VQH36Hc1JtlCoDPWF/oTs6KnHx3xaUN9mmKzv3rcoSX3wJCQjh5LLzGX84RZyAQw0JCXgJzuN9oiA==",
+  "dgSpecHash": "bnvtWRT8NH8vKp/hSbmVLeAvfvvzmFd15Tg6q3c7Ff694Wfmp5Dyn08BaPUgUMcj7NXGV49gcguDmRWw+jXPCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\Visual Studio 2019\\dotnetCoreApp\\dotnetCoreApp\\dotnetCoreApp.csproj",
+  "projectFilePath": "C:\\dotneGitClone\\Generic-Repository-Pattern-in-Dotnet-Core\\dotnetCoreApp\\dotnetCoreApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
@@ -164,7 +164,8 @@
     "C:\\Users\\user\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],
   "logs": []
 }

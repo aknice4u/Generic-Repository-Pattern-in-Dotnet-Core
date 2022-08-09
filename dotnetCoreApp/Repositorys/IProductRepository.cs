@@ -14,5 +14,6 @@ namespace dotnetCoreApp.Repositorys
 		void Update(Products model);
 		void Delete(Products model);
 		string UploadedFile(ProductViewmodel model);
+		Products SearchProducts(DateTime Date);
 	}
 }
